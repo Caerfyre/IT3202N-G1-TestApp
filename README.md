@@ -1,6 +1,6 @@
 ## IT 3202N Group 1 Test App
 
-This is a software testing activity/assignment using java for the course IT 3202N. 
+This is a unit testing activity/assignment using java for the course IT 3202N. 
 Created by Niña Therese J. Ybas
 
 ## Folder Structure
