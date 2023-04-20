@@ -26,7 +26,7 @@ public class GuessGame {
             return 2;
         }
     }
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         GuessGame game = new GuessGame();
         int num = game.createRandomNum();
         int guess = game.getUserGuesses();
