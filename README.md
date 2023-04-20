@@ -1,6 +1,7 @@
-## Getting Started
+## IT 3202N Group 1 Test App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a software testing activity/assignment using java for the course IT 3202N. 
+Created by Niña Therese J. Ybas
 
 ## Folder Structure
 
